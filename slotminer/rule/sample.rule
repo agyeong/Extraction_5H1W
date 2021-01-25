@@ -1,0 +1,31 @@
+{
+	"R01": {
+		"name": "slot_sample",
+		"result": {"value": "[$s]"},
+		"condition": [
+			{"next": "(캣|독){2}[$s=애완동물]"},
+			{"ext": "!"}
+		]
+	},
+	"R02": {
+		"name": "slot_sample",
+		"result": {"value": "[$s]"},
+		"condition": [
+			{"ext": "(c|d)?입니당"}
+		]
+	},
+	"Rcitygoo": {
+		"name": "slot_location",
+		"result": {"city": "[$s0]", "gu": "[$s1]"},
+		"condition": [
+			{"ext": "[$s0=@R01.value]좋아요"}
+		]
+	},
+	"Rm": {
+		"name": "slot_location",
+		"result": {"city": "[$s0]"},
+		"condition": [
+			{"ext": "[$s0=@__CARDINAL_INT__]개(입)!"}
+		]
+	}
+}
