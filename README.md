@@ -4,8 +4,8 @@
 ## :bust_in_silhouette: Participation Member
 
  [ 정영섭 ]  Professor   
- [ 김아경 ]  Sutudent  : [ bzxz55@gmail.com ]   
- [ 이채윤 ]  Sutudent  : [ dbs8438@gmail.com ]
+ [ 김아경 ]  Student  : [ bzxz55@gmail.com ]   
+ [ 이채윤 ]  Student  : [ dbs8438@gmail.com ]
 
 
  ## 📖 Introduction
