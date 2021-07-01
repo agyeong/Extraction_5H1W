@@ -1,5 +1,8 @@
 # Extraction_5H1W
-> 뉴스 본문을 한줄 요약 후 육하원칙 추출
+> 순천향대학교 빅데이터공학과 2020-2 텍스트마이닝
+
+## Introduce
+뉴스 본문 한줄 요약 후 육하원칙 추출
 
 ## :bust_in_silhouette: Participation Member
 
