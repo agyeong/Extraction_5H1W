@@ -44,5 +44,9 @@ slotminer directory 안에 run.py 파일과 Final.py 저장 후 아래 코드 �
 [주의사항]
 뉴스 본문 입력 시, 문단 구분이 없어야 됨.
 
+## 📄 Example
+![image](https://user-images.githubusercontent.com/70522267/141249053-94cc2abd-eb39-4122-b1d3-bab15b5b58f7.png)
+
+
 ## 📄 Detail Information
 [Git_lab](https://gitlab.com/veronica1/text-mining)
